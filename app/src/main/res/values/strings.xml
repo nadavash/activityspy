@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Activity Spy</string>
-    <string name="greeting">Greetings UW!</string>
+    <string name="greeting">Greetings, UW!</string>
     <string name="action_settings">Settings</string>
 
 </resources>

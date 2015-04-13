@@ -1,0 +1,36 @@
+04-13 00:25:01.279  31064-31064/edu.washington.nadava.activityspy I/art﹕ Late-enabling -Xcheck:jni
+04-13 00:25:01.365  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onCreate event fired
+04-13 00:25:01.397  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStart event fired
+04-13 00:25:01.398  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onResume event fired
+04-13 00:25:01.409  31064-31082/edu.washington.nadava.activityspy D/OpenGLRenderer﹕ Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+04-13 00:25:01.414  31064-31064/edu.washington.nadava.activityspy D/Atlas﹕ Validating map...
+04-13 00:25:01.457  31064-31082/edu.washington.nadava.activityspy I/Adreno-EGL﹕ <qeglDrvAPI_eglInitialize:379>: QUALCOMM Build: 01/14/15, ab0075f, Id3510ff6dc
+04-13 00:25:01.458  31064-31082/edu.washington.nadava.activityspy I/OpenGLRenderer﹕ Initialized EGL, version 1.4
+04-13 00:25:01.471  31064-31082/edu.washington.nadava.activityspy D/OpenGLRenderer﹕ Enabling debug mode 0
+04-13 00:25:12.258  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onPause event fired
+04-13 00:25:12.258  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStop event fired
+04-13 00:25:12.258  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onDestroy event fired
+04-13 00:25:12.258  31064-31064/edu.washington.nadava.activityspy E/MainActivity﹕ We're going down, Captain!
+04-13 00:25:12.317  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onCreate event fired
+04-13 00:25:12.317  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@3546521c, 2131230767=android.view.AbsSavedState$1@3546521c, 2131230768=android.view.AbsSavedState$1@3546521c, 2131230769=android.support.v7.widget.Toolbar$SavedState@399dae25, 2131230770=android.view.AbsSavedState$1@3546521c, 2131230783=android.view.AbsSavedState$1@3546521c}}]}]
+04-13 00:25:12.337  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStart event fired
+04-13 00:25:12.339  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onResume event fired
+04-13 00:25:15.294  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onPause event fired
+04-13 00:25:15.830  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStop event fired
+04-13 00:25:18.137  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onRestart event fired
+04-13 00:25:18.137  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStart event fired
+04-13 00:25:18.137  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onResume event fired
+04-13 00:25:20.414  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onPause event fired
+04-13 00:25:20.783  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStop event fired
+04-13 00:25:22.730  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onRestart event fired
+04-13 00:25:22.731  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStart event fired
+04-13 00:25:22.731  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onResume event fired
+04-13 00:25:24.372  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onPause event fired
+04-13 00:25:24.379  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStop event fired
+04-13 00:25:30.739  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onRestart event fired
+04-13 00:25:30.739  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStart event fired
+04-13 00:25:30.739  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onResume event fired
+04-13 00:25:32.163  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onPause event fired
+04-13 00:25:32.274  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onStop event fired
+04-13 00:25:32.274  31064-31064/edu.washington.nadava.activityspy I/MainActivity﹕ onDestroy event fired
+04-13 00:25:32.274  31064-31064/edu.washington.nadava.activityspy E/MainActivity﹕ We're going down, Captain!
